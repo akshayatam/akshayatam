@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏽‍🎓 Graduate student at Stevens Institute of Technology<br>🎓 MS Machine Learning<br>🖥️ Artificial Intelligence enthusiast<br>💡 Interests: Computer Vision, Statistical Machine Learning and Knowledge Representation<br>Fan of Portal Series
+🧑🏽‍🎓 Graduate student at Stevens Institute of Technology<br>🎓 MS Machine Learning<br>🖥️ Artificial Intelligence enthusiast<br>💡 Interests: Computer Vision, Statistical Machine Learning and Knowledge Representation<br>🎮 Fan of Portal Series
 
 
 ## 🌐 Socials:
