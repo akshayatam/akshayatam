@@ -1,6 +1,15 @@
+# 🏆 Welcome to the Aperture Science GitHub Testing Initiative!  
+
+<p align="center">
+  <img src="https://i.gifer.com/3f4T.gif" width="400"/>
+</p>
+
+<p align="center">
+  <i>"We do what we must because we can." - GLaDOS</i>
+</p>
+
 # 💫 About Me:
 🧑🏽‍🎓 Graduate student at Stevens Institute of Technology<br>🎓 MS Machine Learning<br>🖥️ Artificial Intelligence enthusiast<br>💡 Interests: Computer Vision, Natural Language Processing, and Generative AI<br>🎮 Fan of Portal Series
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insanely_a_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-atam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@insanely_a_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/insanely_a_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/insanely_a_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/insanely_a_) 
