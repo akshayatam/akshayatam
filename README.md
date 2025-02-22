@@ -1,4 +1,4 @@
-# 🏆 Welcome to the Aperture Science GitHub Testing Initiative!  
+# <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Aperture_Science.svg" width="20"/> Welcome to the Aperture Science GitHub Testing Initiative!  
 
 <p align="center">
   <img src="https://i.gifer.com/3f4T.gif" width="400"/>
