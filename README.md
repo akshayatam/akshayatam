@@ -1,7 +1,7 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Aperture_Science.svg" width="20"/> Welcome to the Aperture Science GitHub Testing Initiative!  
+# <img src="assets/aperture.png" width="20"/> Welcome to the Aperture Science GitHub Testing Initiative!  
 
 <p align="center">
-  <img src="https://i.gifer.com/3f4T.gif" width="400"/>
+  <img src="assets/glados.gif" width="400"/>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 ## 💼 Current Role:
-📊 **Data Analyst (Volunteer) at Bright Mind Education**  
+📊 **Data Analyst (Volunteer) at Bright Mind Enrichment**  
 💡 Focus: **Data Processing, Statistical Analysis, and KPI Metrics Tracking**  
 🔍 Responsibilities:
 - Developing a **penalty system for employees** based on meeting behavior.
@@ -31,7 +31,7 @@
 🎓 **MS in Machine Learning**, Stevens Institute of Technology  
 🖥️ **Artificial Intelligence Enthusiast**  
 💡 Interests: **Computer Vision, NLP, Generative AI, MLOps, LLMs**  
-🎮 Fan of the **Portal Series** 
+🎮 Fan of the **Portal Series**  
 
 ## 🚀 Featured Projects:
 🔹 **[Hate Speech Detection](https://github.com/akshayatam/hate-speech-detection-with-hatemoderate)** - Built a **DistilBERT-based model** for **hate speech classification**  
