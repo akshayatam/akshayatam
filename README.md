@@ -39,8 +39,7 @@
 ## 🚀 Featured Projects:
 🔹 **[Hate Speech Detection](https://github.com/akshayatam/hate-speech-detection-with-hatemoderate)** - Built a **DistilBERT-based model** for **hate speech classification**  
 🔹 **[Photometric Redshift Estimation](https://github.com/akshayatam/photometric-redshift-estimation)** - Predicting galaxy redshift using ML techniques   
-🔹 **[Machine Translation](https://github.com/akshayatam/machine-translation-with-retnet)** - Built a **RetNet-based model** for **faster and optimized machine translation**. 
-🔹 **[3D Point Cloud from Images](https://github.com/akshayatam/3D-point-cloud-generation)** - Generated **3D representations from images**  
+🔹 **[Machine Translation](https://github.com/akshayatam/machine-translation-with-retnet)** - Built a **RetNet-based model** for **faster and optimized machine translation** 
 
 --- 
 
