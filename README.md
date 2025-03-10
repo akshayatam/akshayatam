@@ -18,9 +18,10 @@
 
 ## 🚀 I'm Currently In The Process Of:
 📖 **Learning:**  
+- **Building Graph Convolution Network** for fraud detection model using Elliptic++ dataset
 - **JAX & Deep Learning** – Exploring **Flax, Haiku, Optax**  
 - **MLOps & Deployment** – CI/CD pipelines for ML models  
-- **Improving LeetCode Problem-Solving skills** for upcoming interviews  
+- **Improving my LeetCode Problem-Solving skills** for interviews  
 
 💡 **Working On:** 
 - **Improving My GitHub Repos** – Making code more production-ready  
