@@ -18,14 +18,13 @@
 
 ## 🚀 I'm Currently In The Process Of:
 📖 **Learning:**  
-- **Building Graph Convolution Network** for fraud detection model using Elliptic++ dataset
 - **JAX & Deep Learning** – Exploring **Flax, Haiku, Optax**  
 - **MLOps & Deployment** – CI/CD pipelines for ML models  
 - **Improving my LeetCode Problem-Solving skills** for interviews  
 
 💡 **Working On:** 
+- **Building Graph Convolution Network** for fraud detection model using Elliptic++ dataset 
 - **Improving My GitHub Repos** – Making code more production-ready  
-- **Refining My QMK Firmware Contribution** – Waiting for maintainer approval  
 - **Building My Website** – Hosting my portfolio & projects 
 
 # 💫 About Me:
@@ -40,12 +39,10 @@
 🔹 **[Machine Translation](https://github.com/akshayatam/machine-translation-with-retnet)** - Built a **RetNet-based model** for **faster and optimized machine translation** 
 
 ## 🤝 Open-Source Contributions:
-I contribute to **open-source projects** in **ML, NLP, and AI**.  
 Here’s my latest contribution:
 
-- **[QMK Firmware – Custom Keymap for Ducky One2 Mini](https://github.com/qmk/qmk_firmware/pull/24909)** (🔄 **Pending Review**)  
-  - Created **custom ANSI Tsangan layout keymap** for the Ducky One2 Mini keyboard.  
-  - Followed **QMK Firmware documentation** and submitted **a structured pull request**. 
+**[QMK Firmware](https://github.com/qmk/qmk_firmware)** - ANSI Tsangan Layout for Ducky One 2 Mini  
+[![Status](https://img.shields.io/badge/Status-Merged-brightgreen?logo=github&style=flat-square)](https://github.com/qmk/qmk_firmware/pull/24909)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-atam) 
