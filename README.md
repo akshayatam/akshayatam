@@ -23,7 +23,7 @@
 - **Improving my LeetCode Problem-Solving skills** for interviews  
 
 💡 **Working On:** 
-- **Building Graph Convolution Network** for fraud detection model using Elliptic++ dataset 
+- **Building Graph Convolution Network** for fraud detection model using Elliptic++ dataset  
 - **Improving My GitHub Repos** – Making code more production-ready  
 - **Building My Website** – Hosting my portfolio & projects 
 
