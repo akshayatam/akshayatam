@@ -9,23 +9,25 @@
 </p>
 
 ## 💼 Current Role:
-📊 **Data Analyst (Volunteer) at Bright Mind Enrichment**  
-💡 Focus: **Data Processing, Statistical Analysis, and KPI Metrics Tracking**  
+📊 **AI/ML Engineer at Perfect Solutions**  
+💡 Focus: **Designing, training, and deploying machine learning models for enterprise applications**  
 🔍 Responsibilities:
-- Developing a **penalty system for employees** based on meeting behavior.
-- Streamlining **data collection** to align with business and technology needs.
-- Assessing **campaign success and optimizing future strategies** with data-driven insights.
+- Building **PyTorch and TensorFlow models** for automation and AI-driven use cases.  
+- Developing **data preprocessing pipelines** for multi-million-row datasets.  
+- Supporting **end-to-end ML workflows**, from data to deployment. 
 
 ## 🚀 I'm Currently In The Process Of:
 📖 **Learning:**  
 - **JAX & Deep Learning** – Exploring **Flax, Haiku, Optax**  
+- **Deep-ML** – Solving Machine Learning and Data Science problems  
 - **MLOps & Deployment** – CI/CD pipelines for ML models  
 - **Improving my LeetCode Problem-Solving skills** for interviews  
 
 💡 **Working On:** 
-- **Building Graph Convolution Network** for fraud detection model using Elliptic++ dataset  
+- **RAG for Vintage Keyboards & Switches** – Building a retrieval-augmented generation system using FAISS & FastAPI to preserve knowledge from the now-defunct Deskthority Wiki  
+- **Vintage Board Modernization** – Tinkering with classic keyboards by creating **custom keymaps from scratch** and adapting them for modern firmware (QMK/ZMK)  
 - **Improving My GitHub Repos** – Making code more production-ready  
-- **Building My Website** – Hosting my portfolio & projects 
+- **Building My Website** – Hosting my portfolio & projects  
 
 # 💫 About Me:
 🎓 **MS in Machine Learning**, Stevens Institute of Technology  
@@ -34,9 +36,9 @@
 🎮 Fan of the **Portal Series**  
 
 ## 🚀 Featured Projects:
-🔹 **[Hate Speech Detection](https://github.com/akshayatam/hate-speech-detection-with-hatemoderate)** - Built a **DistilBERT-based model** for **hate speech classification**  
-🔹 **[Photometric Redshift Estimation](https://github.com/akshayatam/photometric-redshift-estimation)** - Predicting galaxy redshift using ML techniques   
-🔹 **[Machine Translation](https://github.com/akshayatam/machine-translation-with-retnet)** - Built a **RetNet-based model** for **faster and optimized machine translation** 
+## 🚀 Featured Projects:
+🔹 **[Spotify Insights Lab](https://github.com/akshayatam/spotify-insights-lab)** – Full-stack ML dashboard analyzing 1.2M+ tracks, with XGBoost promotion model, Streamlit UI, and PostgreSQL query optimization (~150× faster).  
+🔹 **[Helmet Detection with YOLOv5](https://github.com/akshayatam/helmetdetect-fiftyone)** – Custom YOLOv5 model trained from scratch on 5K images; evaluated with FiftyOne to debug predictions and performance.  
 
 ## 🤝 Open-Source Contributions:
 Here’s my latest contribution:
@@ -86,10 +88,5 @@ Here’s my latest contribution:
 ![](https://github-readme-stats.vercel.app/api?username=akshayatam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshayatam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayatam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 📝 Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Pillars of AI - AlexNet](https://akshayatam.framer.website/blog/alexnet)
-<!-- BLOG-POST-LIST:END -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
