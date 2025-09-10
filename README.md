@@ -36,7 +36,6 @@
 🎮 Fan of the **Portal Series**  
 
 ## 🚀 Featured Projects:
-## 🚀 Featured Projects:
 🔹 **[Spotify Insights Lab](https://github.com/akshayatam/spotify-insights-lab)** – Full-stack ML dashboard analyzing 1.2M+ tracks, with XGBoost promotion model, Streamlit UI, and PostgreSQL query optimization (~150× faster).  
 🔹 **[Helmet Detection with YOLOv5](https://github.com/akshayatam/helmetdetect-fiftyone)** – Custom YOLOv5 model trained from scratch on 5K images; evaluated with FiftyOne to debug predictions and performance.  
 
