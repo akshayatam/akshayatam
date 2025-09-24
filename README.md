@@ -18,9 +18,8 @@
 
 ## 🚀 I'm Currently In The Process Of:
 📖 **Learning:**  
-- **JAX & Deep Learning** – Exploring **Flax, Haiku, Optax**  
+- **Rust** – Exploring the **basics** of **ownership** and how to use in my ML cycles  
 - **Deep-ML** – Solving Machine Learning and Data Science problems  
-- **MLOps & Deployment** – CI/CD pipelines for ML models  
 - **Improving my LeetCode Problem-Solving skills** for interviews  
 
 💡 **Working On:** 
