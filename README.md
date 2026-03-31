@@ -15,9 +15,15 @@
   <img src="assets/glados.gif" width="400"/>
 </p>
 
-<p align="center">
-  <i>Building intelligent systems with curiosity, rigor, and a healthy respect for rogue AI.</i>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="assets/portal2-turret-left.png" width="40"/></td>
+    <td align="center">
+      <i>Building intelligent systems with curiosity, rigor, and a healthy respect for rogue AI.</i>
+    </td>
+    <td><img src="assets/portal2-turret-right.png" width="40"/></td>
+  </tr>
+</table>
 
 ---
 
