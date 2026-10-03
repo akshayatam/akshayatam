@@ -104,10 +104,62 @@ What I focus on in practice:
 
 ---
 
-## 🤝 Open Source
+## 🌱 Open Source
 
-**QMK Firmware — ANSI Tsangan Layout (Merged)**  
-https://github.com/qmk/qmk_firmware/pull/24909  
+Contributing features, bug fixes, security improvements, and tooling
+across Rust, Python, Kotlin, and open-source developer ecosystems.
+
+### [baseRT](https://github.com/basecompute/baseRT)
+**`feat(cli): add rm model command`** · [PR #60](https://github.com/basecompute/baseRT/pull/60)
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
+![Open](https://img.shields.io/badge/PR-Open-2da44e?style=flat-square)
+
+Implemented `basert rm <model>` for safely removing locally installed models,
+including end-to-end tests, symlink protection, custom cache handling, and documentation.
+
+---
+
+### [Seal](https://github.com/JunkFood02/Seal)
+**`fix: update youtubedl-android for QuickJS support`** · [PR #2659](https://github.com/JunkFood02/Seal/pull/2659)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Open](https://img.shields.io/badge/PR-Open-2da44e?style=flat-square)
+
+Updated the yt-dlp Android dependency to restore YouTube downloads by enabling
+the JavaScript runtime required by current yt-dlp versions.
+
+---
+
+### [folder-icons](https://github.com/sameerasw/folder-icons)
+**`Add Notepad++ icon`** · [PR #57](https://github.com/sameerasw/folder-icons/pull/57)
+
+![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat-square)
+
+Added matching PNG and ICO Notepad++ folder icons to the Windows 11 icon collection.
+
+---
+
+### [LangChain](https://github.com/langchain-ai/langchain)
+**`fix(core): prevent symlink path escape in prompt loaders`** · [PR #36860](https://github.com/langchain-ai/langchain/pull/36860)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Closed](https://img.shields.io/badge/PR-Closed-6e7681?style=flat-square)
+
+Implemented resolved-path validation and regression tests for symlink-based
+path escapes. Closed because an equivalent fix was already being contributed.
+
+---
+
+### [QMK Firmware](https://github.com/qmk/qmk_firmware)
+**Ducky One2 Mini ANSI Tsangan Layout** · [PR #24909](https://github.com/qmk/qmk_firmware/pull/24909)
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![QMK](https://img.shields.io/badge/QMK-Firmware-333333?style=flat-square)
+![Merged](https://img.shields.io/badge/PR-Merged-8957e5?style=flat-square)
+
+Added ANSI Tsangan layout support for the Ducky One2 Mini, including a new keymap and updated keyboard layout configuration.
 
 ---
 
